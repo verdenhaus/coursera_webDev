@@ -63,16 +63,11 @@ header h1 {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-    body .box {
+    .box {
         width: 48%;
         float: left;
         margin-right: 2%;
     }
-
-    .box:nth-child(2) {
-        margin-right: 0;
-    }
-
     #sushi {
         width: 98%;
         margin-top: .%;
